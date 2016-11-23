@@ -2,16 +2,17 @@
                          DISCLAIMER
 
 The PyWiCoPaCo is not affiliated, connected, or associated with Limsi
-(Laboratoire d'Informatique pour la Mécanique et les Sciences de l'Ingénieur)
-nor The WiCoPaco Corpus developpement team in any way.For more information
-about The WiCoPaco Corpus, visit : https://wicopaco.limsi.fr/
+(Laboratoire d'Informatique pour la Mécanique et les Sciences de 
+l'Ingénieur) nor The WiCoPaco Corpus developpement team in any way. 
+For more information about The WiCoPaco Corpus, visit :
+	https://wicopaco.limsi.fr/
   
-Licence information for PyWiCoPaCo project is available in the LICENCE file.
-The current Licence applies to the follwing included third-party files:
+Licence for PyWiCoPaCo project is available in the LICENCE file. The 
+current Licence applies to the follwing included third-party files:
 	data/spelling_error-v3.xml
 	data/wrhc-fr_070101-sh1-v2.xml
-Theses files are redistributed under the terms of the GNU Free Documentation
-License, Version 1.3.Source : https://wicopaco.limsi.fr/
+Theses files are redistributed under the terms of the GNU Free 
+Documentation License, Version 1.3.Source : https://wicopaco.limsi.fr/
 
   - https://wicopaco.limsi.fr/corpus/spelling_error-v3.xml
   - https://wicopaco.limsi.fr/corpus/wrhc-fr_070101-sch1-v2.xml.gz
@@ -74,10 +75,10 @@ Camille Dutrey, Houda Bouamor, Delphine Bernhard and Aurélien Max,
                  Version 1.3, 3 November 2008
 
 
- Copyright (C) 2000, 2001, 2002, 2007, 2008 Free Software Foundation, Inc.
+Copyright (C) 2000, 2001, 2002, 2007, 2008 Free Software Foundation, Inc.
      <http://fsf.org/>
- Everyone is permitted to copy and distribute verbatim copies
- of this license document, but changing it is not allowed.
+Everyone is permitted to copy and distribute verbatim copies
+of this license document, but changing it is not allowed.
 
 0. PREAMBLE
 
